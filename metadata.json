@@ -1,0 +1,6 @@
+{
+  "name": "Gugu Xpress",
+  "description": "An Android-first online shopping marketplace for fast, smart, global commerce with flash deals, multi-seller stores, real-time tracking, and AI shopping assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

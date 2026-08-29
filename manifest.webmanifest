@@ -1,0 +1,23 @@
+{
+  "name": "Gugu Xpress - Marketplace",
+  "short_name": "Gugu Xpress",
+  "description": "Everything You Want. One Xpress Away. Modern African and Global E-Commerce Marketplace.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FF6A00",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='42' fill='%23FF6A00'/><path d='M50 125 L85 65 L115 125 L140 65' stroke='white' stroke-width='16' stroke-linecap='round' stroke-linejoin='round' fill='none'/><circle cx='100' cy='42' r='9' fill='white'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='110' fill='%23FF6A00'/><path d='M130 335 L225 175 L305 335 L375 175' stroke='white' stroke-width='42' stroke-linecap='round' stroke-linejoin='round' fill='none'/><circle cx='265' cy='115' r='24' fill='white'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["shopping", "lifestyle", "business"]
+}
